@@ -1,4 +1,5 @@
 <h1>Kbennys</h1>
+
 <h3>Description :</h3>  
 
 Un petit job bennys en RageUi v2  
@@ -16,3 +17,11 @@ Un petit job bennys en RageUi v2
 <h3>Optimisation ms : </h3>
 
 Job en RageUi v2 | 0.01 ms
+
+<h3> Preview :</h3>  
+
+https://www.youtube.com/watch?v=lRXltD_XXxA
+
+<h3> Discord :</h3>  
+
+https://discord.gg/QWzGAKXwnC
